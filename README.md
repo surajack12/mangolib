@@ -1,2 +1,3 @@
-# mangolib
-DIgital library Library
+# Mangolib
+Digital library Library for SISTec
+
